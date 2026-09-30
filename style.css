@@ -1,0 +1,10 @@
+div.header {
+    background-color: #1f3954;
+    padding: 10px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: white;
+    font-size: 30px;
+}
